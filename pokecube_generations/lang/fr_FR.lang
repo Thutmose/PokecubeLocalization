@@ -1,0 +1,23 @@
+﻿#Pokecube Generations translation
+
+item.MetalCoat.name=Peau Métal
+item.SoftBoiledEgg.name=Oeuf-Coque
+item.SilverWing.name=Aile Argentée
+item.RainbowWing.name=Aile Arc-en-Ciel
+item.LegendarySword.name=Epée Légendaire
+item.MysteriousAntennae.name=Antenne Mystèrieuse
+item.LileepFossil.name=Fossile Racine
+item.AnorithFossil.name=Fossile Griffe
+item.Sapphire.name=Sapphire
+item.Ruby.name=Rubis
+item.UnchargedOrb.name=Orbe Fade
+item.LegendaryOrb.name=Orbe Légendaire
+item.BlueOrb.name=Orbe Bleu
+item.RedOrb.name=Orbe Rouge
+
+tile.LegendarySpawner.name=Générateur Légendaire
+tile.CelebiAltar.name=Autel Mystérieux
+tile.FossilStone.name=Roche-Fossile
+tile.Reanimator.name=Reanimateur
+tile.oresapphire.name=Sapphire Brut
+tile.oreruby.name=Rubis Brut
