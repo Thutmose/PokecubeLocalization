@@ -1,4 +1,4 @@
-﻿#Pokecube Adventures translation
+#Pokecube Adventures translation
 
 item.pokemobTarget.name=Target
 item.warplinker.name=Warp Pad Linker
@@ -42,3 +42,15 @@ tile.pc.autoon=Auto On
 tile.pc.autooff=Auto Off
 tile.pc.rename=Rename
 
+tile.null.name=Null
+tile.blockDust.name=Dust
+tile.soliddust.name=Solid Dust
+tile.chalk.name=Chalk
+tile.trass.name=Trass
+tile.limestone.name=Limestone
+tile.meteorite.name=Meteorite
+item.dust.name=Dust
+item.dustTrass.name=Trass Dust
+item.dustCement.name=Cement
+item.dustSulfur.name=Sulfur
+item.smoother.name=Smoother
