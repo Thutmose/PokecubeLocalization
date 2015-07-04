@@ -1,4 +1,4 @@
-﻿#Pokecube translation
+#Pokecube translation
 pkmn.Bulbasaur.name=Bulbasaur
 pkmn.Ivysaur.name=Ivysaur
 pkmn.Venusaur.name=Venusaur
@@ -698,7 +698,7 @@ pokemob.move.missed=It missed %1$s!
 pokemob.move.isfrozen=%1$s is frozen.
 pokemob.move.issleeping=%1$s is sleeping.
 pokemob.move.isfullyparalyzed=%1$s is fully paralyzed.
-pokemob.move.paralyzed=%1$s is paralyzed.
+pokemob.move.isparalyzed=%1$s is paralyzed.
 pokemob.move.isburned=%1$s is burned.
 pokemob.move.ispoisoned=%1$s is poisoned.
 pokemob.move.isbadlypoisoned=%1$s is badly poisoned.
@@ -1272,7 +1272,7 @@ pokemob.stance.guard=GUARD
 pokemob.stance.stay=STAY
 pokemob.stance.follow=FOLLOW
 pokemob.stance.sit=SIT
-pokemob.stance.stay=STAY
+pokemob.stance.stand=STAND
 
 achievement.catch=Catch a %1$s
 achievement.get1stPokemob=Get 1st Pokemob
@@ -1298,6 +1298,7 @@ item.duskstone.name=Dusk Stone
 item.dawnstone.name=Dawn Stone
 item.kingsrock.name=King's Rock
 item.luckyEgg.name=Lucky Egg
+
 
 item.berry.desc=Plant on Farmland to grow
 item.cheriBerry.name=Cheri Berry
@@ -1327,6 +1328,24 @@ item.jabocaBerry.desc=Used to make Repel
 item.rowapBerry.name=Rowap Berry
 item.rowapBerry.desc=Used to make Repel
 item.berryjuice.name=Berry Juice
+
+tile.cheriCrop.name=Cheri Crop
+tile.chestoCrop.name=Chesto Crop
+tile.pechaCrop.name=Pecha Crop
+tile.rawstCrop.name=Rawst Crop
+tile.aspearCrop.name=Aspear Crop
+tile.leppaCrop.name=Leppa Crop
+tile.oranCrop.name=Oran Crop
+tile.persimCrop.name=Persim Crop
+tile.lumCrop.name=Lum Crop
+tile.sitrusCrop.name=Sitrus Crop
+tile.nanabCrop.name=Nanab Crop
+tile.pinapCrop.name=Pinap Crop
+tile.cornnCrop.name=Cornn Crop
+tile.enigmaCrop.name=Enigma Crop
+tile.jabocaCrop.name=Jaboca Crop
+tile.rowapCrop.name=Rowap Crop
+
 
 item.hpup.name=HP UP
 item.calcium.name=Calcium
@@ -1364,6 +1383,7 @@ tile.pokemobSpawnerGrass.name=Pokemob spawner grass
 tile.table.name=Pokecube Table
 
 item.pokecube.name=Pokecube
+item.pokecube.type.0=
 item.greatcube.name=Greatcube
 item.ultracube.name=Ultracube
 item.mastercube.name=Mastercube
@@ -1375,8 +1395,9 @@ item.nestcube.name=Nestcube
 item.divecube.name=Divecube
 item.repeatcube.name=Repeatcube
 item.premiercube.name=Premiercube
-item.cherrishcube.name=Cherishcube
+item.cherishcube.name=Cherishcube
 item.duskcube.name=Duskcube
+item.pokeseal.name=Pokeseal
 
 item.HelixFossil.name=Helix Fossil
 item.DomeFossil.name=Dome Fossil
